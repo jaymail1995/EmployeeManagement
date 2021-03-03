@@ -4,9 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Data;
 using System.Data.SqlClient;
-using EmployeeManagement.Models;
 
-namespace EmployeeManagment.Data
+namespace EmployeeManagementData
 {
     public class DataManager
     {

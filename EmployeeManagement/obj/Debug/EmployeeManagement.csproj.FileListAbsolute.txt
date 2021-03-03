@@ -130,6 +130,7 @@ D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.rsp
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.dll
+D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\EmployeeManagmentData.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.dll
@@ -141,6 +142,8 @@ D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\WebGrease.dll
+D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\EmployeeManagmentData.pdb
+D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\EmployeeManagmentData.dll.config
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.xml
@@ -151,8 +154,8 @@ D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.xml
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.pdb
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
 D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
-D:\Projects\skynet\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
