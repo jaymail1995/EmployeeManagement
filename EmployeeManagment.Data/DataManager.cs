@@ -10,26 +10,21 @@ namespace EmployeeManagment.Data
 {
     public class DataManager
     {
-        private string _connectionString = @"Data Source=.;Initial Catalog=Inventory;Integrated Security=True";
         SqlConnection _conn;
         SqlCommand cmd;
         SqlDataReader reader;
 
-        public string ConnectionString
-        {
-            get { return _connectionString; }
-            set { _connectionString = value; }
-        }
+        public string ConnectionString { get; set; } = @"Data Source=.;Initial Catalog=Inventory;Integrated Security=True";
 
         public int InsertData(string query)
         {
             try
             {
-                _conn = new SqlConnection(_connectionString);
+                _conn = new SqlConnection(ConnectionString);
                 _conn.Open();
                 cmd = new SqlCommand(query, _conn);
                 int result = cmd.ExecuteNonQuery();
-                 if(result == 1)
+                 if(result > 0)
                 {
                     return result;
                 }
@@ -49,12 +44,76 @@ namespace EmployeeManagment.Data
             }
         }
 
+        public int UpdateData(string query)
+        {
+            try
+            {
+                _conn = new SqlConnection(ConnectionString);
+                _conn.Open();
+                cmd = new SqlCommand(query, _conn);
+                int result = cmd.ExecuteNonQuery();
+                if(result > 0)
+                {
+                    return result;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            catch (FormatException)
+            {
+                return -1;
+            }
+            catch (Exception)
+            {
+                return -2;
+            }
+            finally
+            {
+                _conn.Close();
+                _conn.Dispose();
+            }
+        }
+
+        public int DeleteData(string query)
+        {
+            try
+            {
+                _conn = new SqlConnection(ConnectionString);
+                _conn.Open();
+                cmd = new SqlCommand(query, _conn);
+                int result = cmd.ExecuteNonQuery();
+                if(result > 0)
+                {
+                    return result;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            catch (FormatException)
+            {
+                return -1;
+            }
+            catch(Exception)
+            {
+                return -2;
+            }
+            finally
+            {
+                _conn.Close();
+                _conn.Dispose();
+            }
+        }
+
         public List<EmployeeModel> GetEmployeeDetails(string query)
         {
             try
             {
                 List<EmployeeModel> employeeList = new List<EmployeeModel>();
-                _conn = new SqlConnection(_connectionString);
+                _conn = new SqlConnection(ConnectionString);
                 _conn.Open();
                 cmd = new SqlCommand(query, _conn);
                 reader = cmd.ExecuteReader();
