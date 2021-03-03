@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -27,21 +28,30 @@ namespace EmployeeManagement.Models
             get { return _id; }
             set { _id = value; }
         }
+
+        [Required]
+        [Display(Name = "First Name")]
         public string EmployeeFirstName
         {
             get { return _firstName; }
             set { _firstName = value; }
         }
+        [Required]
+        [Display(Name = "City")]
         public string EmployeeCity
         {
             get { return _city; }
             set { _city = value; }
         }
+        [Required]
+        [Display(Name = "Phone")]
         public string EmployeePhone
         {
             get { return _phone; }
             set { _phone = value; }
         }
+        [Required]
+        [Display(Name = "Email")]
         public string EmployeeEmail
         {
             get { return _email; }
