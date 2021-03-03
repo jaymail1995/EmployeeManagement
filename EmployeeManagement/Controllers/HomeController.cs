@@ -9,9 +9,12 @@ namespace EmployeeManagement.Controllers
 {
     public class HomeController : Controller
     {
+        UserData db = new UserData();
+
         public ActionResult Index()
         {
-            return View();
+            List<EmployeeModel> employeeList = db.GetEmployeeList();
+            return View(employeeList);
         }
 
         public ActionResult About()
