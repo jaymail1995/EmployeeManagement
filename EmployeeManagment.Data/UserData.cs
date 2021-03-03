@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using EmployeeManagement.Models;
 
-namespace EmployeeManagment.Data
+namespace EmployeeManagementData
 {
     public class UserData : DataManager
     {

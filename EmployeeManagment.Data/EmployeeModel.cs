@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace EmployeeManagement.Models
+namespace EmployeeManagementData
 {
     public class EmployeeModel
     {
