@@ -74,6 +74,19 @@ namespace EmployeeManagementData
             }
         }
 
+        public EmployeeModel GetEmployee(int ID)
+        {
+            try
+            {
+                _query = $"SELECT * FROM Employee Where Id = {ID}";
+                return dataManager.GetSingleEmployee(_query);   
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
         public List<EmployeeModel> GetEmployeeList()
         {
             try
