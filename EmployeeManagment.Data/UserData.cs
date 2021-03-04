@@ -36,7 +36,7 @@ namespace EmployeeManagementData
         {
             try
             {
-                _query = $"Update Employee SET FirstName = '{employeeObject.EmployeeFirstName}', City = '{employeeObject.EmployeeCity}', Phone = '{employeeObject.EmployeePhone}', Email = '{employeeObject.EmployeeEmail}';";
+                _query = $"Update Employee SET FirstName = '{employeeObject.EmployeeFirstName}', City = '{employeeObject.EmployeeCity}', Phone = '{employeeObject.EmployeePhone}', Email = '{employeeObject.EmployeeEmail}' WHERE Id = {employeeObject.EmployeeID};";
                 int result = dataManager.UpdateData(_query);
                 if (result > 0)
                 {
