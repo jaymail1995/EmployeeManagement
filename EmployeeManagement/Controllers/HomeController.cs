@@ -17,6 +17,20 @@ namespace EmployeeManagement.Controllers
             return View(employeeList);
         }
 
+        [HttpGet]
+        public ActionResult Edit(int Id)
+        {
+            EmployeeModel employee = db.GetEmployee(Id);
+            return View(employee);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(EmployeeModel employee)
+        {
+            db.UpdateEmployeeDetails(employee);
+            return View("Index");
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
