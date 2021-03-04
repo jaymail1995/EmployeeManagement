@@ -111,7 +111,7 @@ namespace EmployeeManagementData
         {
             try
             {
-                EmployeeModel empObject = new EmployeeModel;
+                EmployeeModel empObject = new EmployeeModel();
                 _conn = new SqlConnection(ConnectionString);
                 _conn.Open();
                 cmd = new SqlCommand(query, _conn);
