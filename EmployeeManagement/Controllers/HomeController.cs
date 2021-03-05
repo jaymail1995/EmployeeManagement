@@ -28,7 +28,7 @@ namespace EmployeeManagement.Controllers
         public ActionResult Edit(EmployeeModel employee)
         {
             db.UpdateEmployeeDetails(employee);
-            return View("Index");
+            return RedirectToAction("Index");
         }
 
         public ActionResult About()

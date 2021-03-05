@@ -13,7 +13,7 @@ namespace EmployeeManagementData
         SqlCommand cmd;
         SqlDataReader reader;
 
-        public string ConnectionString { get; set; } = @"Data Source=DESKTOP-2BQ3F5H;Initial Catalog=EmployeeDB;Integrated Security=True";
+        public string ConnectionString { get; set; } = @"Data Source=.\SQLEXPRESS;Initial Catalog=EmployeeDB;Integrated Security=True";
 
         public int InsertData(string query)
         {

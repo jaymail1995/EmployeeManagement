@@ -69,3 +69,39 @@ C:\Assignment\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManage
 C:\Assignment\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CopyComplete
 C:\Assignment\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.dll
 C:\Assignment\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.pdb
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.dll.config
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.pdb
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.exe
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.exe.config
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.rsp
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csi.exe
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csi.rsp
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.AppContext.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.exe
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.exe.config
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.rsp
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csprojAssemblyReference.cache
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CopyComplete
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.dll
+C:\Users\Enigma\Downloads\Development .net\EmployeeManagement\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.pdb
