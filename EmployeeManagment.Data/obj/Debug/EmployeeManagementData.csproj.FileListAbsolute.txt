@@ -141,3 +141,39 @@ C:\Traning\Class7\New folder\EmployeeManagement\EmployeeManagment.Data\obj\Debug
 C:\Traning\Class7\New folder\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CopyComplete
 C:\Traning\Class7\New folder\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.dll
 C:\Traning\Class7\New folder\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.pdb
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.dll.config
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\EmployeeManagmentData.pdb
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.exe
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.exe.config
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csc.rsp
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csi.exe
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\csi.rsp
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.AppContext.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Collections.Immutable.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.IO.FileSystem.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\System.Reflection.Metadata.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.exe
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.exe.config
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\vbc.rsp
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\VBCSCompiler.exe
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\roslyn\VBCSCompiler.exe.config
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csprojAssemblyReference.cache
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CoreCompileInputs.cache
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagementData.csproj.CopyComplete
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.dll
+E:\Development Course\New folder (2)\EmployeeManagement\EmployeeManagment.Data\obj\Debug\EmployeeManagmentData.pdb
