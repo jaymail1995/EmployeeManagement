@@ -31,18 +31,50 @@ namespace EmployeeManagement.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult About()
+        [HttpPost]
+        public ActionResult Delete(int? id)
         {
-            ViewBag.Message = "Your application description page.";
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(System.Net.HttpStatusCode.BadRequest);
+            }
+            else
+            {
+                try
+                {
+                    List<EmployeeModel> employeeList;
+                    int result = db.DeleteEmployeeDetails(db.GetEmployee(id ?? default(int)));
+                    if (result > 0)
+                    {
+                        employeeList = db.GetEmployeeList();
+                        return PartialView("Index", employeeList);
+                    }
+                    else
+                    {
+                        ViewBag.err = "Something went wrong!";
+                        return PartialView("Index", null);
+                    }
+                }
+                catch
+                {
+                    throw new Exception("Something went wrong while deleteing the record!");
+                }
+            }
 
-            return View();
         }
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
+        //public actionresult about()
+        //{
+        //    viewbag.message = "your application description page.";
 
-            return View();
-        }
+        //    return view();
+        //}
+
+        //public actionresult contact()
+        //{
+        //    viewbag.message = "your contact page.";
+
+        //    return view();
+        //}
     }
 }
